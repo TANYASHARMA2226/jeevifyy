@@ -3,6 +3,7 @@
 A comprehensive emergency healthcare response platform designed to connect people in crisis to rapid, coordinated help within minutes. Built with Next.js 15, TypeScript, and Tailwind CSS.
 
 ## 🌟 Features
+#
 
 ### 🚨 Emergency Response System
 - **SOS Activation**: One-tap emergency activation with voice command support
